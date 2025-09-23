@@ -1,0 +1,18 @@
+class Solution {
+    public void sub(int[] nums,Set<List<Integer>>result,int ind,List<Integer>temp) {
+        if(ind==nums.length){
+            result.add(new ArrayList<>(temp));
+            return;
+        }
+        temp.add(nums[ind]);
+        sub(nums,result,ind+1,temp);
+        temp.remove(temp.size()-1);
+        sub(nums,result,ind+1,temp);
+    }
+    public List<List<Integer>> subsetsWithDup(int[] nums){
+    Set<List<Integer>> result = new HashSet<>();
+    Arrays.sort(nums);
+    sub(nums,result,0,new ArrayList<>());
+    return new ArrayList<>(result);
+    }  
+}
