@@ -4,13 +4,10 @@
             result.add(new ArrayList<>(cur));
             return;
         }
-
         if (idx >= candidates.length || sum > target) return;
-
         cur.add(candidates[idx]);
         backtrack(candidates, idx, target, cur, sum + candidates[idx],result);
         cur.remove(cur.size() - 1); 
-
         backtrack(candidates, idx + 1, target, cur, sum,result);
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
