@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/Inikapoorani/leetcode_problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Backtracking
 |  |
@@ -15,6 +16,7 @@
 | [0077-combinations](https://github.com/Inikapoorani/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
