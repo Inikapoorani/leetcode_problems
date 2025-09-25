@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Inikapoorani/leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
@@ -13,6 +14,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Inikapoorani/leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Inikapoorani/leetcode_problems/tree/master/0077-combinations) |
@@ -28,4 +30,12 @@
 |  |
 | ------- |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
