@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Backtracking
@@ -29,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Hash Table
 |  |
