@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Inikapoorani/leetcode_problems/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
@@ -60,4 +61,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0210-course-schedule-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Inikapoorani/leetcode_problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
