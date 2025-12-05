@@ -31,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Inikapoorani/leetcode_problems/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Hash Table
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Inikapoorani/leetcode_problems/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Inikapoorani/leetcode_problems/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Inikapoorani/leetcode_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
