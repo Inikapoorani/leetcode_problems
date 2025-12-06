@@ -83,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Inikapoorani/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Inikapoorani/leetcode_problems/tree/master/0091-decode-ways) |
 ## Tree
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Inikapoorani/leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
