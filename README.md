@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Inikapoorani/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Inikapoorani/leetcode_problems/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Inikapoorani/leetcode_problems/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Inikapoorani/leetcode_problems/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Inikapoorani/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Hash Table
