@@ -113,4 +113,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Inikapoorani/leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Inikapoorani/leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
