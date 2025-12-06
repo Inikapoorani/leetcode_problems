@@ -11,6 +11,7 @@
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Inikapoorani/leetcode_problems/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Backtracking
@@ -43,15 +44,18 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Inikapoorani/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0210-course-schedule-ii) |
 ## Graph
@@ -88,4 +92,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Inikapoorani/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
