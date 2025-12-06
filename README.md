@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 ## Backtracking
 |  |
@@ -45,12 +46,14 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +61,7 @@
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Stack
 |  |
 | ------- |
