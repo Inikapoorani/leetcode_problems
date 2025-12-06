@@ -91,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Inikapoorani/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Inikapoorani/leetcode_problems/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Inikapoorani/leetcode_problems/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
