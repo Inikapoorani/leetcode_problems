@@ -16,6 +16,7 @@
 | [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Inikapoorani/leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Inikapoorani/leetcode_problems/tree/master/0135-candy) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Inikapoorani/leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Inikapoorani/leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/Inikapoorani/leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
