@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Inikapoorani/leetcode_problems/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Inikapoorani/leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0040-combination-sum-ii) |
@@ -118,6 +119,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Inikapoorani/leetcode_problems/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
