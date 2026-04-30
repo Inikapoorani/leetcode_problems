@@ -9,7 +9,7 @@ class Solution {
             s.add(nums1[i]);
             }
             for(int j=0;j<l2;j++){
-                if(s.contains(nums2[j])&&!res.contains(nums2[j])){
+                if(s.contains(nums2[j])){
                    res.add(nums2[j]) ;
                 }
             }
