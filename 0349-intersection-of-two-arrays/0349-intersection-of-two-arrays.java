@@ -19,8 +19,7 @@ class Solution {
                 arr[k]=ele;
                 k++;
 
-            }
-            
+            }  
             return arr;
         }
 }
