@@ -16,6 +16,7 @@
 | [0198-house-robber](https://github.com/Inikapoorani/leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Inikapoorani/leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Inikapoorani/leetcode_problems/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -134,5 +137,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Inikapoorani/leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
