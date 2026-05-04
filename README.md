@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0695-max-area-of-island](https://github.com/Inikapoorani/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1130-last-stone-weight-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/1130-last-stone-weight-ii) |
+| [2032-two-out-of-three](https://github.com/Inikapoorani/leetcode_problems/tree/master/2032-two-out-of-three) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Inikapoorani/leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Backtracking
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Inikapoorani/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0090-subsets-ii) |
+| [2032-two-out-of-three](https://github.com/Inikapoorani/leetcode_problems/tree/master/2032-two-out-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Inikapoorani/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [2032-two-out-of-three](https://github.com/Inikapoorani/leetcode_problems/tree/master/2032-two-out-of-three) |
 ## Matrix
 |  |
 | ------- |
