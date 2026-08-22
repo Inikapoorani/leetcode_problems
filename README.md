@@ -40,6 +40,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Inikapoorani/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Inikapoorani/leetcode_problems/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Inikapoorani/leetcode_problems/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Inikapoorani/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Inikapoorani/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Inikapoorani/leetcode_problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -126,6 +128,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Inikapoorani/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Inikapoorani/leetcode_problems/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Inikapoorani/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Inikapoorani/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Inikapoorani/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
