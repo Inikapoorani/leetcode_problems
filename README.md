@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Inikapoorani/leetcode_problems/tree/master/0210-course-schedule-ii) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Inikapoorani/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Inikapoorani/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Inikapoorani/leetcode_problems/tree/master/0207-course-schedule) |
@@ -110,11 +112,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Inikapoorani/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Inikapoorani/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Inikapoorani/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Union Find
 |  |
